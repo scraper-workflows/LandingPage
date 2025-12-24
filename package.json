@@ -1,0 +1,9 @@
+{
+  "name": "intelligence-platform-landing",
+  "version": "1.0.0",
+  "description": "Landing page for autonomous intelligence platform",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build required for static site'"
+  }
+}
