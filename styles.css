@@ -432,6 +432,7 @@ h4 {
 .section-header {
     max-width: 800px;
     margin: 0 auto 1rem;
+    text-align: center;
 }
 
 .tag {
@@ -444,6 +445,7 @@ h4 {
     font-weight: 500;
     margin-bottom: 1.5rem;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 /* Features Section */
